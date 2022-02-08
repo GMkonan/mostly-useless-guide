@@ -80,4 +80,5 @@ I recommend checking [this section](https://mostly-adequate.gitbook.io/mostly-ad
 ### Useful Links
 - [Professor Frisby's book chapter 3](https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch03)
 - [What is referential transparency?](https://stackoverflow.com/questions/210835/what-is-referential-transparency)
+- [Referential transparency wikipedia example](https://en.wikipedia.org/wiki/Referential_transparency#:~:text=Another%20example,-As%20an%20example&text=The%20function%20rt%20is%20referentially,reasoning%20about%20programs%20more%20difficult.)
 - [Meaning of Equational reasoning](https://stackoverflow.com/questions/29113863/where-does-the-name-of-equational-reasoning-come-from#:~:text=%22Equational%20reasoning%22%20is%20just%20reasoning,series%20of%20rewrites%3A%20fmap%20even%20.)
