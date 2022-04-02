@@ -7,5 +7,5 @@ I don't know about you, but a lot of times I find some interestting topic about 
 - Functional Programming (FP)
 - React 
 - NextJS
-- Javascript guide
-- Typescript guide
+- Javascript Topics
+- Typescript Topics
