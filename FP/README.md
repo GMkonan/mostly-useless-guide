@@ -2,6 +2,7 @@ This section of the repo contain notes about important Functional programming co
 
 - First Class Functions
 - Pure functions and side Effects
+- curry
 
 A lot of those notes are based on Professors Frisby's book (like some examples and the order things are presented).
 Take a look at his book for a more in depth approach in Functional Programming! Link below.
