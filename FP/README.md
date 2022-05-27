@@ -11,5 +11,7 @@ Take a look at his book for a more in depth approach in Functional Programming! 
 
 Probably every concept will have a `useful links` section with links about that section alone,
 here the links are general (links that cover more than one thing about FP for example).
+
 - [Professor Frisby's book](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Fun Fun function FP videos](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [functional js](https://opensource.com/article/17/6/functional-javascript)
