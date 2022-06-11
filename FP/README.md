@@ -15,3 +15,4 @@ here the links are general (links that cover more than one thing about FP for ex
 - [Professor Frisby's book](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Fun Fun function FP videos](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - [functional js](https://opensource.com/article/17/6/functional-javascript)
+- [functional JS lib Sanctuary](https://github.com/sanctuary-js/sanctuary)
